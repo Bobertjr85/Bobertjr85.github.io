@@ -13,7 +13,7 @@
     "FGO": {
       "name": "Fate/Grand Order",
       "timezone": "Etc/GMT+8",
-      "dayReset": "21:00"
+      "dayReset": "20:00"
     },
     "GI": {
       "name": "Genshin Impact",
