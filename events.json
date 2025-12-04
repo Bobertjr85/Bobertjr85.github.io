@@ -12,7 +12,7 @@
     },
     "FGO": {
       "name": "Fate/Grand Order",
-      "timezone": "US/Pacific",
+      "timezone": "Etc/GMT+8",
       "dayReset": "21:00"
     },
     "GI": {
