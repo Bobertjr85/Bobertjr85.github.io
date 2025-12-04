@@ -2,7 +2,7 @@
   "games": {
     "AL": {
       "name": "Azur Lane",
-      "timezone": "America/Denver",
+      "timezone": "Etc/UTC-7",
       "dayReset": "00:00"
     },
     "BA": {
