@@ -82,34 +82,39 @@
     ],
     "NIKKE": [
       {
-        "event": "Terminus Ticket",
-        "start": "2025-12-04 00:00",
-        "end":   "2025-12-30 04:59"
+        "event": "Maintenance",
+        "start": "2025-12-30 11:00",
+        "end":   "2026-12-30 18:00"
+      },
+      {
+        "event": "Ark Guardian",
+        "start": "2025-12-30 18:00",
+        "end":   "2026-01-20 04:59"
       }
     ],
     "ZZZ": [
       {
-        "event": "'En-Nah' Chess Saga",
-        "start": "2025-12-01 00:00",
-        "end":   "2025-12-29 03:59"
+        "event": "Maintenance",
+        "start": "2025-12-30 06:00",
+        "end":   "2025-12-30 11:00"
       },
       {
-        "event": "Neo Golden Mecha",
-        "start": "2025-12-01 00:00",
-        "end":   "2025-12-29 03:59"
+        "event": "Version 2.5 Phase 1 Banners",
+        "start": "2025-12-30 11:00",
+        "end":   "2026-02-05 14:59"
       },
       {
-        "event": "Lightstream Notes",
+        "event": "",
         "start": "2025-12-03 10:00",
         "end":   "2025-12-29 03:59"
       },
       {
-        "event": "100% Miss Bunny",
+        "event": "",
         "start": "2025-12-17 10:00",
         "end":   "2025-12-29 03:59"
       },
       {
-        "event": "Simulated Sequence Showdown",
+        "event": "",
         "start": "2025-12-08 10:00",
         "end":   "2025-12-29 03:59"
       }
