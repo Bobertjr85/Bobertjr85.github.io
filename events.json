@@ -17,7 +17,7 @@
     },
     "GI": {
       "name": "Genshin Impact",
-      "timezone": "Etc/GMT-5",
+      "timezone": "Etc/GMT+5",
       "dayReset": "04:00"
     },
     "NIKKE": {
@@ -27,7 +27,7 @@
     },
     "ZZZ": {
       "name": "Zenless Zone Zero",
-      "timezone": "Etc/GMT-5",
+      "timezone": "Etc/GMT+5",
       "dayReset": "04:00"
     }
   },
