@@ -28,7 +28,7 @@
     "ZZZ": {
       "name": "Zenless Zone Zero",
       "timezone": "Etc/GMT-8",
-      "dayReset": "07:00"
+      "dayReset": "15:00"
     }
   },
   "events": {
