@@ -69,7 +69,6 @@
       }
     ],
     "GI": [
-      // Time in UTC-5 (in-game notices & official patch notes) 
       {
         "event": "Heroic Clash: Saurian Brawl",
         "start": "2025-12-29 10:00",
