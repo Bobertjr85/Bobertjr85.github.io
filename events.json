@@ -102,6 +102,31 @@
         "event": "Version 2.5 Phase 1 Banners",
         "start": "2026-01-01 11:00",
         "end":   "2026-02-05 14:59"
+      },
+      {
+        "event": "Sword Seeker Chronicles",
+        "start": "2025-12-31 10:00",
+        "end":   "2026-02-05 03:59"
+      },
+      {
+        "event": "Joint Investigation: The Divine Maze",
+        "start": "2026-01-03 10:00",
+        "end":   "2026-01-22 03:59"
+      },
+      {
+        "event": "Shadow Riptide Clash",
+        "start": "2026-01-09 10:00",
+        "end":   "2026-01-26 03:59"
+      },
+      {
+        "event": "Wish Filing Station",
+        "start": "2026-01-14 10:00",
+        "end":   "2026-02-02 03:59"
+      },
+      {
+        "event": "Angels of Delusion Training in Progress",
+        "start": "2026-01-30 10:00",
+        "end":   "2026-02-09 03:59"
       }
     ]
   }
