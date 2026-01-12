@@ -83,6 +83,11 @@
         "event": "Luna IV Phase 2 Banners (Zibai, Neuvillette)",
         "start": "2026-02-03 18:00",
         "end":   "2026-02-24 14:59"
+      },
+      {
+        "event": "Gnostic Hymn",
+        "start": "2026-01-13 22:00",
+        "end":   "2026-02-23 02:59"
       }
     ],
     "NIKKE": [
