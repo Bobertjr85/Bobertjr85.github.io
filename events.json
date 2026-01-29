@@ -34,9 +34,14 @@
   "events": {
     "AL": [
       {
-        "event": "A Note Through the Firmament",
-        "start": "2025-12-18 00:00",
-        "end":   "2026-01-07 23:59"
+        "event": "Light & Shadow Fashion Shoot",
+        "start": "2026-01-22 00:00",
+        "end":   "2026-02-04 23:59"
+      },
+      {
+        "event": "Cruise Mission Pass",
+        "start": "2025-12-01 00:00",
+        "end":   "2026-01-31 23:59"
       }
     ],
     "BA": [
@@ -107,19 +112,19 @@
         "end":   "2026-01-15 15:00"
       },
       {
-        "event": "Ark Guardian",
-        "start": "2025-12-30 18:00",
-        "end":   "2026-01-20 04:59"
+        "event": "Fatal Maid",
+        "start": "2026-01-29 15:00",
+        "end":   "2026-02-11 23:59"
       },
       {
-        "event": "Sin Editor",
-        "start": "2026-01-15 15:00",
-        "end":   "2026-01-29 04:59"
+        "event": "Union Raid",
+        "start": "2026-01-30 05:00",
+        "end":   "2026-02-05 04:59"
       },
       {
         "event": "Co-op",
-        "start": "2026-01-16 12:00",
-        "end":   "2026-01-18 23:59"
+        "start": "2026-01-30 12:00",
+        "end":   "2026-02-01 23:59"
       }
     ],
     "ZZZ": [
