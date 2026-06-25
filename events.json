@@ -34,14 +34,19 @@
   "events": {
     "AL": [
       {
-        "event": "Light & Shadow Fashion Shoot",
+        "event": "Miracle by Midnight",
+        "start": "2026-06-25 00:00",
+        "end":   "2026-07-08 23:59"
+      },
+      {
+        "event": "Light of the Martyrium Shop",
         "start": "2026-01-22 00:00",
-        "end":   "2026-02-04 23:59"
+        "end":   "2026-07-01 23:59"
       },
       {
         "event": "Cruise Mission Pass",
-        "start": "2025-12-01 00:00",
-        "end":   "2026-01-31 23:59"
+        "start": "2026-06-01 00:00",
+        "end":   "2026-07-31 23:59"
       }
     ],
     "BA": [
@@ -110,11 +115,6 @@
         "event": "Maintenance",
         "start": "2026-01-15 11:00",
         "end":   "2026-01-15 15:00"
-      },
-      {
-        "event": "Fatal Maid",
-        "start": "2026-01-29 15:00",
-        "end":   "2026-02-11 23:59"
       },
       {
         "event": "Union Raid",
