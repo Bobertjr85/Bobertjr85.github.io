@@ -149,7 +149,7 @@ function updateCountdown() {
         if (debug) console.log(targetDate);
 
         const duration = moment.duration(targetDate.diff(now));
-        const days = duration.days();
+        const days = duration.asDays();
         const hours = duration.hours();
         const minutes = duration.minutes();
         const seconds = duration.seconds();
