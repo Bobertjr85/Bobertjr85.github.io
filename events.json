@@ -12,8 +12,8 @@
     },
     "FGO": {
       "name": "Fate/Grand Order",
-      "timezone": "Etc/GMT+8",
-      "dayReset": "20:00"
+      "timezone": "US/Pacific",
+      "dayReset": "21:00"
     },
     "GI": {
       "name": "Genshin Impact",
@@ -54,16 +54,6 @@
         "event": "Maintenance",
         "start": "2026-01-13 02:00",
         "end":   "2026-01-13 07:00"
-      },
-      {
-        "event": "We are the Occult Investigation Society!",
-        "start": "2026-01-13 07:00",
-        "end":   "2026-01-27 01:59"
-      },
-      {
-        "event": "Total Assault: Perorodzilla",
-        "start": "2026-01-20 02:00",
-        "end":   "2026-01-26 18:59"
       }
     ],
     "FGO": [
@@ -83,53 +73,13 @@
         "event": "Maintenance",
         "start": "2026-01-13 17:00",
         "end":   "2026-01-13 22:00"
-      },
-      {
-        "event": "Shutterflash Memory Hunt",
-        "start": "2026-01-16 10:00",
-        "end":   "2026-01-26 03:59"
-      },
-      {
-        "event": "Stygian Onslaught Artifacts",
-        "start": "2026-01-21 10:00",
-        "end":   "2026-01-31 03:59"
-      },
-      {
-        "event": "A Lanternlit Ode to the Silver Moon",
-        "start": "2026-01-30 10:00",
-        "end":   "2026-02-23 03:59"
-      },
-      {
-        "event": "Luna IV Phase 1 Banners (Columbina, Ineffa)",
-        "start": "2026-01-13 22:00",
-        "end":   "2026-02-03 17:59"
-      },
-      {
-        "event": "Luna IV Phase 2 Banners (Zibai, Neuvillette)",
-        "start": "2026-02-03 18:00",
-        "end":   "2026-02-24 14:59"
-      },
-      {
-        "event": "Gnostic Hymn",
-        "start": "2026-01-13 22:00",
-        "end":   "2026-02-23 02:59"
       }
     ],
     "NIKKE": [
       {
-        "event": "Maintenance",
-        "start": "2026-01-15 11:00",
-        "end":   "2026-01-15 15:00"
-      },
-      {
-        "event": "Union Raid",
-        "start": "2026-01-30 05:00",
-        "end":   "2026-02-05 04:59"
-      },
-      {
-        "event": "Co-op",
-        "start": "2026-01-30 12:00",
-        "end":   "2026-02-01 23:59"
+        "event": "ARK RANGER",
+        "start": "2026-06-11 11:00",
+        "end":   "2026-07-02 04:59"
       }
     ],
     "ZZZ": [
@@ -137,41 +87,6 @@
         "event": "Maintenance",
         "start": "2025-12-30 06:00",
         "end":   "2025-12-30 11:00"
-      },
-      {
-        "event": "Sword Seeker Chronicles",
-        "start": "2025-12-31 10:00",
-        "end":   "2026-02-05 03:59"
-      },
-      {
-        "event": "Joint Investigation: The Divine Maze",
-        "start": "2026-01-03 10:00",
-        "end":   "2026-01-22 03:59"
-      },
-      {
-        "event": "Shadow Riptide Clash",
-        "start": "2026-01-09 10:00",
-        "end":   "2026-01-26 03:59"
-      },
-      {
-        "event": "Wish Filing Station",
-        "start": "2026-01-14 10:00",
-        "end":   "2026-02-02 03:59"
-      },
-      {
-        "event": "Angels and Delusions of Muse",
-        "start": "2026-01-21 10:00",
-        "end":   "2026-02-05 03:59"
-      },
-      {
-        "event": "Angels of Delusion Training in Progress",
-        "start": "2026-01-30 10:00",
-        "end":   "2026-02-09 03:59"
-      },
-      {
-        "event": "Version 2.5 Phase 1 Banners",
-        "start": "2026-01-01 11:00",
-        "end":   "2026-02-05 14:59"
       }
     ]
   }
