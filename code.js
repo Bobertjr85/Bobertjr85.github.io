@@ -155,7 +155,7 @@ function updateCountdown() {
         const seconds = duration.seconds();
 
         if (days > 0) {
-          gameHtmlString += `<h3>${event.event}</h3><h5>${tag} inu ${days}d ${hours}h ${minutes}m ${seconds}s</h5>`;
+          gameHtmlString += `<h3>${event.event}</h3><h5>${tag} in ${days}d ${hours}h ${minutes}m ${seconds}s</h5>`;
         } else if (hours > 0) {
             gameHtmlString += `<h3>${event.event}</h3><h5>${tag} in ${hours}h ${minutes}m ${seconds}s</h5>`;
         } else {
