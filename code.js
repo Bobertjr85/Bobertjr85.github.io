@@ -149,13 +149,13 @@ function updateCountdown() {
         if (debug) console.log(targetDate);
 
         const duration = moment.duration(targetDate.diff(now));
-        const days = duration.asDays();
+        const days = Math.trunc(duration.asDays());
         const hours = duration.hours();
         const minutes = duration.minutes();
         const seconds = duration.seconds();
 
         if (days > 0) {
-          gameHtmlString += `<h3>${event.event}</h3><h5>${tag} ina ${Math.trunc(days)}d ${hours}h ${minutes}m ${seconds}s</h5>`;
+          gameHtmlString += `<h3>${event.event}</h3><h5>${tag} inu ${days}d ${hours}h ${minutes}m ${seconds}s</h5>`;
         } else if (hours > 0) {
             gameHtmlString += `<h3>${event.event}</h3><h5>${tag} in ${hours}h ${minutes}m ${seconds}s</h5>`;
         } else {
