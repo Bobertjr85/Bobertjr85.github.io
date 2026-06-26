@@ -5,7 +5,7 @@ var allEvents = {};
 var userTimezone = "Etc/UTC";
 
 // only turn this on if you really like the idea of lots and lots of console spew
-const debug = true;
+const debug = false;
 // it's useful to turn this off while debugging, so you don't get spew every second
 const enableConstantUpdates = true;
 
