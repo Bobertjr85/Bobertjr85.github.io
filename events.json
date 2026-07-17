@@ -34,14 +34,14 @@
   "events": {
     "AL": [
       {
-        "event": "Miracle by Midnight",
-        "start": "2026-06-25 00:00",
-        "end": "2026-07-08 23:59"
+        "event": "NieR Collab",
+        "start": "2026-07-17 00:00",
+        "end": "2026-07-29 23:59"
       },
       {
-        "event": "Light of the Martyrium Shop",
-        "start": "2026-01-22 00:00",
-        "end": "2026-07-01 23:59"
+        "event": "Top Bidder",
+        "start": "2026-07-17 00:00",
+        "end": "2026-08-05 23:59"
       },
       {
         "event": "Cruise Mission Pass",
@@ -58,14 +58,24 @@
     ],
     "FGO": [
       {
-        "event": "The Dancing Dragon Castle",
-        "start": "2026-06-12 01:00",
-        "end":   "2026-07-02 20:59"
+        "event": "Celeb Summer Experience!",
+        "start": "2026-07-15 02:00",
+        "end":   "2026-09-01 20:59"
       },
       {
-        "event": "Hunting Quest 14",
-        "start": "2026-06-26 21:00",
-        "end":   "2026-07-03 19:59"
+        "event": "Ordeal Call III",
+        "start": "2026-07-29 01:00",
+        "end":   "2026-09-30 20:59"
+      },
+      {
+        "event": "Ciel Banner",
+        "start": "2026-07-17 00:00",
+        "end":   "2026-09-01 20:59"
+      },
+      {
+        "event": "Space Ereshkigal Banner",
+        "start": "2026-07-17 00:00",
+        "end":   "2026-07-18 20:59"
       }
     ],
     "GI": [
