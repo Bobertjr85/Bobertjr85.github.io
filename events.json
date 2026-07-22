@@ -73,9 +73,14 @@
         "end":   "2026-09-01 20:59"
       },
       {
-        "event": "Space Ereshkigal Banner",
-        "start": "2026-07-17 00:00",
-        "end":   "2026-07-18 20:59"
+        "event": "Summer Artoria Banner",
+        "start": "2026-07-19 21:00",
+        "end":   "2026-07-26 20:59"
+      },
+      {
+        "event": "Summer BB Banner",
+        "start": "2026-07-23 21:00",
+        "end":   "2026-07-30 20:59"
       }
     ],
     "GI": [
