@@ -1,0 +1,8 @@
+Hololive Dreams Server Time Conversions:
+    Server time is JST, equal to Etc/GMP-9 (UTC+9:00)
+    In-game time is local to device, for me EST, America/New_York
+    To convert from EST to JST:
+    EST (Sept. to Feb.)
+        JST = EST + 14
+    EDT (March to August)
+        JST = EDT + 13

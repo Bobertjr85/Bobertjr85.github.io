@@ -102,14 +102,34 @@
     ],
     "HD": [
       {
-        "event": "'Hello! A Brand New Summer!' Point Rally",
-        "start": "2026-07-28 12:00",
-        "end":   "2026-08-05 19:59"
+        "event": "Summer Event Gacha",
+        "start": "2026-08-16 23:00",
+        "end":   "2026-08-28 22:59"
       },
       {
-        "event": "Sunny Summer Vacay Gacha",
-        "start": "2026-07-28 11:00",
-        "end":   "2026-08-06 10:59"
+        "event": "Summer Event: Ayame",
+        "start": "2026-08-19 20:00",
+        "end":   "2026-08-21 19:59"
+      },
+      {
+        "event": "Summer Event: Ollie",
+        "start": "2026-08-21 20:00",
+        "end":   "2026-08-23 19:59"
+      },
+      {
+        "event": "Summer Event: Luna",
+        "start": "2026-08-23 20:00",
+        "end":   "2026-08-25 19:59"
+      },
+      {
+        "event": "Summer Event: Ina",
+        "start": "2026-08-25 20:00",
+        "end":   "2026-08-27 19:59"
+      },
+      {
+        "event": "'Ultimate Summer For Me?' Exchange Period",
+        "start": "2026-08-17 20:00",
+        "end":   "2026-09-02 19:59"
       }
     ],
     "NIKKE": [
